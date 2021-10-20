@@ -1,0 +1,20 @@
+#inp {
+  margin-top: 20px;
+  font-size: 22px;
+  border-radius: 10px;
+  background-color: rgb(190, 164, 214);
+  height: 50px;
+  text-align: center;
+  padding-top: 15px;
+}
+#inpbox {
+  height: 55px;
+  width: 250px;
+  text-align: center;
+}
+#btn {
+  margin-left: 15px;
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: orange;
+}
